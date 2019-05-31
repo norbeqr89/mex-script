@@ -4,12 +4,12 @@ function buscarCita(){PrimeFaces.ab({s:"formRegistroCitaExtranjero:buscarCita",p
 var cfg4 = new Object();
 cfg4.oncomplete = function(){
     document.getElementById('formRegistroCitaExtranjero:selectTipoTramite_input').value = '63';
-    document.getElementById('formRegistroCitaExtranjero:noPasapAnt').value = 'K039784';
+    document.getElementById('formRegistroCitaExtranjero:noPasapAnt').value = 'XXXX';
     document.getElementById('formRegistroCitaExtranjero:selectPaisPasaporte_input').value = '17';
-    document.getElementById('formRegistroCitaExtranjero:nombre').value = 'ONAY';
-    document.getElementById('formRegistroCitaExtranjero:Apellidos').value = 'TEJEDA PADRON';
+    document.getElementById('formRegistroCitaExtranjero:nombre').value = 'XXXX';
+    document.getElementById('formRegistroCitaExtranjero:Apellidos').value = 'XXXX';
     document.getElementById('formRegistroCitaExtranjero:selectNacionalidad_input').value = '49';
-    document.getElementById('formRegistroCitaExtranjero:fechaNacimiento_input').value = '10/09/1971';
+    document.getElementById('formRegistroCitaExtranjero:fechaNacimiento_input').value = '00/00/0000';
     document.getElementById('formRegistroCitaExtranjero:selectPaisNacimiento_input').value = '17';
     document.getElementById('formRegistroCitaExtranjero:sexo_input').value = '0';
     
